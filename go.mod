@@ -1,1 +1,3 @@
-module github.com/drone/signal
+module github.com/osdro/signal
+
+go 1.15
